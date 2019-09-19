@@ -26,7 +26,8 @@
 - I am the parent with pid: 2 sending the the array: 2, 3, 5, 7, 1, 3
 - I am the child with pid: 3, adding the array 2, 3, 5 and sending partial sum 10
 - I am the child with pid: 4, adding the array 7, 1, 3, and sending partial sum 11
-- I am the parent of pid: 3, and pid: 4.  I have pid: 2 and got partial results 10, 11, final resultis 21
+- I am the parent of pid: 3, and pid: 4.  I have pid: 2 and got partial results 10, and 11
+- Final result is 21!
 
 ### Thank you!
 
