@@ -1,5 +1,5 @@
 # Forks, child processes, and pipes
-## Introductory program assignment for learning pipes, child processes, and the use case of fork
+Introductory program assignment for learning pipes, child processes, and the use case of fork
 
 ## Description
 - A program written in C that will read the number of children and the elements of the array as the command-line argument and will output the result. 
